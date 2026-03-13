@@ -5,13 +5,7 @@
     "creators": ["CdukingGD"],
     "verifier": "RetccatGD",
     "verification": "https://www.youtube.com/watch?v=gHs5gZK5OO4",
-    "percentToQualify": "61",
+    "percentToQualify": "49",
     "records": [
-        {
-            "user": "RetccatGD",
-            "link": "https://www.youtube.com/watch?v=gHs5gZK5OO4",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }

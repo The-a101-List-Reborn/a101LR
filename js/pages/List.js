@@ -121,7 +121,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Please show the attemp count to make sure its not botted.
+                        Please show the attempt count to make sure its not botted.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level

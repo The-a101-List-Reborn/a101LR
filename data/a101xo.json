@@ -1,4 +1,4 @@
-{
+{ 
     "id": 135457863,
     "name": "a101xo",
     "author": "CdukingGD",
@@ -10,6 +10,12 @@
         {
             "user": "RetccatGD",
             "link": "https://www.youtube.com/watch?v=qeOn82fGFnw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "must13must",
+            "link": "https://www.youtube.com/watch?v=aEA3GBa3XhI",
             "percent": 100,
             "hz": 60
         },

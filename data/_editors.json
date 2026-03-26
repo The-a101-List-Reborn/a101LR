@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "Cduking",
-        "link": "https://www.youtube.com/channel/UCAgmu6B9hFScnVgm4Yh5YHA"
+        "name": "CdukingGD",
+        "link": "https://www.youtube.com/@CdukingGD"
     },
     {
         "role": "admin",
-        "name": "Retccat",
+        "name": "RetccatGD",
         "link": "https://www.youtube.com/@RetccatOL"
     },
     {
         "role": "helper",
-        "name": "Derinfunny",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "RetccatGD",
+        "link": "https://www.youtube.com/@RetccatOL"
     },
     {
-        "role": "trial",
-        "name": "Mr Beast",
-        "link": "https://www.youtube.com/@MrBeast"
+        "role": "helper",
+        "name": "derinfunny",
+        "link": "https://www.youtube.com/@CdukingGD"
     },
     {
         "role": "dev",
-        "name": "Mr Beast again",
-        "link": "https://www.youtube.com/@MrBeast"
+        "name": "CdukingGD,
+        "link": "https://www.youtube.com/@CdukingGD"
     }
 ]

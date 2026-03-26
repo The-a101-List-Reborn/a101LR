@@ -98,15 +98,16 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
-                    <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
-                    </p>
+                    <h3>Level Requirements</h3>
                     <p>
                         Your level must be a101 themed. A good example of a a101 challenge is FINAL ROBOT by CdukingGD, and a bad example is true Artificial Artifact by CdukingGD (again). a101 is a list thats inspired by the Walmart List which both of them is a store.
                     </p>
                     <p>
                         Your level must 𝗻𝗼𝘁 have any spam parts, but you can use consistency like a101 Wave by ick567.
+                    </p>
+                    <h3>Submission Requirements</h3>
+                    <p>
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -131,16 +132,6 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
-                    <h3>Submission Requirements</h3>
-                    <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
-                    </p>
-                    <p>
-                        Your level must be a101 themed. A good example of a a101 challenge is FINAL ROBOT by CdukingGD, and a bad example is true Artificial Artifact by CdukingGD (again). a101 is a list thats inspired by the Walmart List which both of them is a store.
-                    </p>
-                    <p>
-                        Your level must 𝗻𝗼𝘁 have any spam parts, but you can use consistency like a101 Wave by ick567.
                     </p>
                 </div>
             </div>

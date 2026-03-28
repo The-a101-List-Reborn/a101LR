@@ -12,6 +12,12 @@
             "link": "http://youtube.com/watch?v=WHOdbSqKepM",
             "percent": 100,
             "hz": 60
+        },
+        {
+                "user": "CdukingGD",
+            "link": "https://www.youtube.com/watch?v=LqXiw8k159M",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
